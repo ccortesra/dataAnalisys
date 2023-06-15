@@ -69,3 +69,18 @@ button{
 }
 
 
+.images-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.images-box img {
+    width: 600px;
+    height: 400px;
+}
+
+.select-box img {
+    width: 600px;
+    height: 400px;
+}

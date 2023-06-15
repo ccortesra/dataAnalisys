@@ -1,0 +1,21 @@
+[
+    {
+        "Dengue":{
+            "img": "url" 
+
+        }, 
+       "Infección Respiratoria": {
+            "img": "url" 
+       }, 
+       "Malaria": {
+            "img": "url" 
+       }, 
+       "Intento de suicidio": {
+            "img": "url" 
+       }, 
+       "Morbilidad materna externa": {
+            "img": "url" 
+       }
+
+    }
+]
